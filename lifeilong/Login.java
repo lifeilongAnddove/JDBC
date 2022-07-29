@@ -6,6 +6,7 @@ import java.sql.*;
 import java.util.Scanner;
 public class Login {
     public static void main(String[] args) {
+ System.out.println("lifeilong");
         Scanner sc = new Scanner(System.in);
         System.out.println("请输入用户名");
         String username = sc.next();
