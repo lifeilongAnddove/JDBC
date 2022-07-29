@@ -9,6 +9,7 @@ public class UpdataSQL {
     public static void main(String[] args) {
         System.out.println("hello lifeilong");
         System.out.println("hello lifeilong22222");
+        System.out.println("hello lifeilong11111");
         Statement stat=null;
         Connection conn=null;
         String sql ="update user set username='张三' where id=1";
